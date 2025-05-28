@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Synthadry</title>
+    <link>/</link>
+    <description>Recent content on Synthadry</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Реализованы шейдеры</title>
+      <link>/journal/post3/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/journal/post3/</guid>
+      <description>&lt;p&gt;Были успешны реализованы шейдеры с эффектом пикселизации и постеризации, а также удобный интерфейс для их настройки&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Концепт пользовательского интерфейса</title>
+      <link>/journal/post2/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/journal/post2/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Интерфейс&#34; loading=&#34;lazy&#34; src=&#34;/images/uione.jpg&#34;&gt;
+&lt;img alt=&#34;Интерфейс&#34; loading=&#34;lazy&#34; src=&#34;/images/uitwo.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Разработан ИИ моба</title>
+      <link>/journal/post1/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/journal/post1/</guid>
+      <description>&lt;p&gt;Был разработан ИИ волка с реакцией на действия игрока (атака, ходьба, бег)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Проект представляет собой однопользовательскую компьютерную игру в жанре FPS (шутер от первого лица). Основной частью проекта является сюжетный режим, основанный на отдельных «уровнях» - самодостаточных пространствах, наполненных разными игровыми ситуациями, требующими со стороны игрока креативного мышления и тактического подхода. Уровни связаны между собой короткими сценами, сюжетно обосновывающими мотивацию главного персонажа, цели и достижения игрока в рамках игрового процесса. Ориентировочная продолжительность сюжетного режима — 3 часа.
+Визуальный стиль, в котором выполнена игра — ретро low poly, вдохновленный классическими играми и набирающий в последнее время популярность. Такой стиль выбран в том числе и с целью облегчения и ускорения процесса наполнения игры контентом, т. к. в прошлом одной из главных проблем проекта была чрезвычайная трудоемкость создания ассетов (моделей и т. п.).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;%5Cimages%5Cpresentation.pptx&#34;&gt;Презентация проекта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;%5Cimages%5Cotchet.docx&#34;&gt;Отчёт о проекте&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/participants/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Лещинский Р.А. - программирование (интерфейс и менеджеры сцен)&lt;/li&gt;
+&lt;li&gt;Гусев И.В. - геймплей&lt;/li&gt;
+&lt;li&gt;Саввин В.А. - ИИ&lt;/li&gt;
+&lt;li&gt;Банников Г.К. - графика&lt;/li&gt;
+&lt;li&gt;Ахмадеев А.Д., Бакашвили Н.Б., Ермачкова А.Д., Науменко Н.А., Довгалева Е.В., Романова А.Н. - дизайн&lt;/li&gt;
+&lt;li&gt;Кудряшов Н.И. - сценарий&lt;/li&gt;
+&lt;li&gt;Скальский А.В. - звуковое сопровождение&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
